@@ -1,6 +1,6 @@
 import { Life, Time, Points } from "./import";
-import { GlobalVars } from "./hitPosition";
 import { areaControl, Generate } from "./map";
+import { GlobalVars } from "./hitPosition";
 import { Store } from "./Store";
 
 class Clicker extends Store {
